@@ -1,11 +1,10 @@
-# Data Scientist
+# Physical Oceanographer (PhD student)
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: MITgcm, MATLAB, FORTRAN, Python
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education					       		
+- M.S., Environmental Science	| Hokkaido University, Japan (_Mar 2021_)	 			       
+- B.S.,               Science | Nihon University,    Japan (_Mar 2019_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
