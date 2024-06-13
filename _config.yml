@@ -1,5 +1,5 @@
 title: Shuntaro Hyogo
 logo: /assets/img/photo_SH.jpeg
 #description: text below image
-show_downloads: true
+show_downloads: False
 theme: jekyll-theme-minimal
