@@ -11,4 +11,4 @@
 
 ## Publications
 1.	S. Hyogo, Y. Nakayama, V. Mensah: Modeling ocean circulation and ice shelf melt in the Bellingshausen Sea. Journal of Geophysical Research: Oceans, 129, e2022JC019275, 2024.
-2.  T. S. Dotto, K. J. Heywood, R. A. Hall, T. A. Scambos, Y. Zheng, Y. Nakayama, ○S. Hyogo, et al.: Ocean variability beneath Thwaites Eastern Ice Shelf driven by the Pine Island Bay Gyre strength. Nature Communications, 13:7840, 2022.
+2.  T. S. Dotto, K. J. Heywood, R. A. Hall, T. A. Scambos, Y. Zheng, Y. Nakayama, S. Hyogo, et al.: Ocean variability beneath Thwaites Eastern Ice Shelf driven by the Pine Island Bay Gyre strength. Nature Communications, 13:7840, 2022.
